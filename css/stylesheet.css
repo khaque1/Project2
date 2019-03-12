@@ -1,0 +1,32 @@
+body {
+	background-color: LavenderBlush;
+	background-size: cover;
+}
+
+ul {
+	font-family: Palatino Linotype;
+	font-style: normal;
+}
+section{
+	font-style: normal;
+	font-family: Palatino Linotype;
+	text-align: left;
+}
+img{
+	width: 25%;
+	height: 25%; 
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+video {
+	width: auto;
+	height: 395px;	
+}
+h1 {
+	font-family: Palatino Linotype;
+	font-style: italic;
+	text-align: center;
+}
+/* This mainly is for the mantled in modesty page, might have to make separate css style sheets for each webpage */ 
