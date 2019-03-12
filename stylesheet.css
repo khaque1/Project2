@@ -3,63 +3,59 @@ body {
 	background-size: cover;
 }
 
-ul {
-	font-family: Palatino Linotype;
-	font-style: normal;
-}
 
 section{
 	font-style: normal;
 	font-family: Palatino Linotype;
-	text-align: left;
+	text-align: center;
+	font-size: small;
 }
 
-nav {
-	background-color: LavenderBlush;
+nav#tabs {
+		background-color: LavenderBlush;
+		overflow:hidden;
 }
 
-.tabs ul{
-  list-style-type: none;
-  margin: 0;
-  padding-top: 10px;
-  overflow: hidden;
+nav#tabs ul{
+		list-style-type: none;
+		padding: 10;
+		overflow: hidden;
 }
 
-.tabs ul li{
-	display:inline;
-	margin: 0 10px;
+nav#tabs ul li{
+		display: inline;
+		float: left;
 }
 
-.tabs ul li a {
-	display: block;
-	padding: 20px;
-	font-size: 20px;
-	color: gray;
-	font-weight: bold;
-	text-decoration: none;
-	text-transform: uppercase;
-	font-family: Palatino Linotype;
+nav#tabs ul li a {
+		display: block;
+		padding: 20px;
+		font-size: 20px;
+		color: gray;
+		font-weight: bold;
+		text-decoration: none;
+		text-transform: uppercase;
 }
 
-.tabs ul li a:hover{
-	color: white;
+nav#tabs ul li a:hover{
+		color: white;
 }
 
 img{
-	width: 25%;
-	height: 25%; 
-	display: block;
-	margin-right: auto;
-	margin-left: auto;
+		width: 25%;
+		height: 25%; 
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
 }
 
 video {
-	width: auto;
-	height: 395px;	
+		width: auto;
+		height: 395px;	
 }
 
 h1 {
-	font-family: Palatino Linotype;
-	font-style: italic;
-	text-align: center;
+		font-family: Palatino Linotype;
+		font-style: italic;
+		text-align: center;
 }
