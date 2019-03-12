@@ -85,10 +85,16 @@ h1 {
 
 h2, h3 {
 		font-family: "Palatino Linotype", sans-serif;
+		margin-left: 60px;
+}
+
+h2 {
+		text-decoration: underline;
 }
 
 #email {
 		font-family: "Palatino Linotype", sans-serif;
+		margin-left: 30px;
 }
 
 #bio, #mbio {
@@ -102,4 +108,9 @@ h2, h3 {
 		font-family: "Palatino Linotype", sans-serif;
 		font-size: 15px;
 		margin:510px;
+}
+
+#subtext, #bullets {
+		font-family: "Palatino Linotype", sans-serif;
+		margin-left: 70px;
 }
