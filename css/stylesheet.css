@@ -1,32 +1,81 @@
 body {
-	background-color: LavenderBlush;
-	background-size: cover;
+		background-color: LavenderBlush;
+		background-size: cover;
+		font-size: 15px;
+		margin: 10px;
 }
 
-ul {
-	font-family: Palatino Linotype;
-	font-style: normal;
+nav#tabs {
+		background-color: LavenderBlush;
+		text-align:center;
+		font-family: "Shadows Into Light", cursive;
+		font-size: 20px;
 }
-section{
-	font-style: normal;
-	font-family: Palatino Linotype;
-	text-align: left;
+
+nav#tabs ul{
+		list-style: none;
+		padding:0;
+		overflow: hidden;
 }
+
+nav#tabs ul li{
+		float: left;
+		margin-left:220px;
+		display:inline;
+}
+
+nav#tabs ul li a {
+		display: inline-block;
+		padding: 20px;
+		color: gray;
+		text-decoration:none;
+		background-color: LavenderBlush;
+		color: DarkRed;
+		font-weight: bold;
+		text-decoration: none;
+		text-align:center;
+}
+
+nav#tabs ul li a:hover{
+		color: gray;
+}
+
 img{
-	width: 25%;
-	height: 25%; 
-	display: block;
-	margin-right: auto;
-	margin-left: auto;
-	
+		width: 25%;
+		height: 25%; 
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
 }
+#mantled{
+		width: 30%;
+		height: 30%; 
+		display: inline;
+		
+		margin-left:30px;
+}
+
 video {
-	width: auto;
-	height: 395px;	
+		width: auto;
+		height: 500px;	
+		display:inline;
 }
+
 h1 {
-	font-family: Palatino Linotype;
-	font-style: italic;
-	text-align: center;
+		font-family: "Shadows Into Light", cursive;
+		text-align: center;
+		font-weight: bold;
 }
-/* This mainly is for the mantled in modesty page, might have to make separate css style sheets for each webpage */ 
+
+#titles{
+		font-size:40px;
+		background-color:LavenderBlush;
+}
+
+h2, h3 {
+		font-family: "Palatino Linotype", sans-serif;
+}
+
+#email {
+		font-family: "Palatino Linotype", sans-serif;
+}
