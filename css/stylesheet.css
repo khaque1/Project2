@@ -47,17 +47,28 @@ img{
 		margin-right: auto;
 		margin-left: auto;
 }
-#mantled{
+#logo {
+		width: 20%;
+		height: 20%; 
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+		
+}
+#mantled1, #mantled{
+		text-align:center;
 		width: 30%;
 		height: 30%; 
 		display: inline;
-		
-		margin-left:30px;
+}
+
+#mantled1{
+		margin-left:100px;
 }
 
 video {
 		width: auto;
-		height: 500px;	
+		height: 475px;	
 		display:inline;
 }
 
@@ -78,4 +89,17 @@ h2, h3 {
 
 #email {
 		font-family: "Palatino Linotype", sans-serif;
+}
+
+#bio, #mbio {
+		font-family: "Palatino Linotype", sans-serif;
+		font-size: 20px;
+		text-align: justify;
+		margin: 20px;
+}
+
+#insta {
+		font-family: "Palatino Linotype", sans-serif;
+		font-size: 15px;
+		margin:510px;
 }
