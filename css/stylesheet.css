@@ -119,24 +119,24 @@ h2 {
 }
 
 hr {
-	width: auto;
-	color: black;
-	border: 1px solid gray; 
+		width: auto;
+		color: black;
+		border: 1px solid gray; 
 }
 
 #footer {
-	font-family: "Shadows Into Light";
-	font-size: 18px;
-	margin-left: 485px;
-	color: DarkRed;
+		font-family: "Shadows Into Light";
+		font-size: 18px;
+		margin-left: 485px;
+		color: DarkRed;
 }
 
 #reference, #referenceK {
-	font-family: "Shadows Into Light";
-	font-size: 12px;
-	margin-left: 490px;
-	color: DarkRed;
+		font-family: "Shadows Into Light";
+		font-size: 12px;
+		margin-left: 490px;
+		color: DarkRed;
 }
 #referenceK {
-margin-left: 600px;
+		margin-left: 600px;
 }
