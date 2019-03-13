@@ -131,9 +131,12 @@ hr {
 	color: DarkRed;
 }
 
-#reference {
+#reference, #referenceK {
 	font-family: "Shadows Into Light";
 	font-size: 12px;
 	margin-left: 490px;
 	color: DarkRed;
+}
+#referenceK {
+margin-left: 600px;
 }
