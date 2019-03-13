@@ -109,12 +109,12 @@ h2 {
 		margin:510px;
 }
 
-#subtext, #bullets {
+#subtext,#subtext2, #subtext3, #subtext4, #subtext5,#subtext6, #bullets, #bullets2, #bullets3, #bullets4, #bullets5 {
 		font-family: "Palatino Linotype", sans-serif;
 		margin-left: 70px;
 }
 
-#subtext {
+#subtext,#subtext2,#subtext3, #subtext4, #subtext5,#subtext6 {
 		font-style: italic;
 }
 
