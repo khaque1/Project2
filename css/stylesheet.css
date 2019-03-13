@@ -127,7 +127,7 @@ hr {
 #footer {
 	font-family: "Shadows Into Light";
 	font-size: 18px;
-	text-decoration: bold;
+	font-style: bold;
 	margin-left: 485px;
 	color: DarkRed;
 }
@@ -135,7 +135,7 @@ hr {
 #reference {
 	font-family: "Shadows Into Light";
 	font-size: 12px;
-	text-decoration: bold;
+	font-style: bold;
 	margin-left: 490px;
 	color: DarkRed;
 }
