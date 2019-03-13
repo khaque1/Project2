@@ -32,7 +32,6 @@ nav#tabs ul li a {
 		background-color: LavenderBlush;
 		color: DarkRed;
 		font-weight: bold;
-		text-decoration: none;
 		text-align:center;
 }
 
@@ -113,4 +112,30 @@ h2 {
 #subtext, #bullets {
 		font-family: "Palatino Linotype", sans-serif;
 		margin-left: 70px;
+}
+
+#subtext {
+		font-style: italic;
+}
+
+hr {
+	width: auto;
+	color: black;
+	border: 1px solid gray; 
+}
+
+#footer {
+	font-family: "Shadows Into Light";
+	font-size: 18px;
+	text-decoration: bold;
+	margin-left: 485px;
+	color: DarkRed;
+}
+
+#reference {
+	font-family: "Shadows Into Light";
+	font-size: 12px;
+	text-decoration: bold;
+	margin-left: 490px;
+	color: DarkRed;
 }
