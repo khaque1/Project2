@@ -59,6 +59,7 @@ img{
   width: 30%;
   height: 30%; 
   display: inline;
+  float: none;
 }
 
 #mantled1{
@@ -94,6 +95,7 @@ h2 {
 #email {
   font-family: "Palatino Linotype", sans-serif;
   margin-left: 30px;
+  float: none;
 }
 
 #bio, #mbio {
@@ -101,6 +103,7 @@ h2 {
   font-size: 20px;
   text-align: justify;
   margin: 20px;
+  float: left;
 }
 
 #insta {
